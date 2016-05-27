@@ -1,5 +1,7 @@
 # Möbius Double Reacharound Proxy
 
+![mobius double reacharound](https://i.imgur.com/537octA.gif)
+
 ## Rationale
 There already exist anonymizing proxies (Tor being a well-known example), but many, if not all, are tailored to a specific scenario, easy to block with a firewall or Deep Packet Inspection, or inflexible.
 
